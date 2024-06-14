@@ -141,9 +141,11 @@ await disable_otp(account)
 ```
 
 Authentication diagram:
+
 ![Authentication diagram](./login.jpg)
 
 Token update diagram:
+
 ![Token update diagram](./refresh.jpg)
 
 ## License
